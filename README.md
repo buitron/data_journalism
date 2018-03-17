@@ -1,6 +1,7 @@
 # Data Journalism and D3
-
-<img align="center" alt='Newspaper Printing (via GIPHY)' src="http://i.giphy.com/v2xIous7mnEYg.gif" />
+<p align="center">
+    <img alt='Newspaper Printing (via GIPHY)' src="http://i.giphy.com/v2xIous7mnEYg.gif" />
+</p>
 
 ## Background
 
