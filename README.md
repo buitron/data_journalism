@@ -110,5 +110,4 @@ Visit these links for advice on how to accomplish this:
 ## Example
 ![sample page](images/D3Times.png)
 
-
-# [Link to the Solution](./skeleton/)
+# [Click Here to test out the Live Page](https://buitron.github.io/data_journalism/skeleton/)
