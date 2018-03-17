@@ -78,7 +78,7 @@ function makeResponsive(){
               var povertyPerc = d.poverty;
               var columnPerc = d[currentAxisLabelY];
 
-              return "<strong>" + stateName + "</strong>" + "<br>Selection %: " + columnPerc + "<br>Poverty %: " + povertyPerc;
+              return "<strong>" + stateName + "</strong>" + "<br>Selection: " + columnPerc + "%<br>Poverty: " + povertyPerc + "%";
             })
 
       // circleText state setup
@@ -147,7 +147,7 @@ function makeResponsive(){
         .attr("transform", "translate(" + -margin.left*3/6 + "," + height/2 + ") rotate(270)")
         .attr("class", "axis-text inactive")
         .attr("data-axis-name", "yes_1_alcohol_in_last_30_days")
-        .text("Min 1 Alcoholic Drink in last 30 Days (%)");
+        .text("Min 1 Alcoholic Drink in Last 30 Days (%)");
 
 
       // inactive axis
