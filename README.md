@@ -111,4 +111,4 @@ Visit these links for advice on how to accomplish this:
 ![sample page](images/D3Times.png)
 
 
-# [Link to the Solution](https://buitron.github.io/data_journalism/skeleton/)
+# [Link to the Solution](./skeleton/)
