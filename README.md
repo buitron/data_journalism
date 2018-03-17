@@ -1,6 +1,6 @@
 # Data Journalism and D3
 
-<img alt='Newspaper Printing (via GIPHY)' src="http://i.giphy.com/v2xIous7mnEYg.gif" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
+<img align="center" alt='Newspaper Printing (via GIPHY)' src="http://i.giphy.com/v2xIous7mnEYg.gif" />
 
 ## Background
 
@@ -18,7 +18,7 @@ You need to find a correlation between two data variables, each measured state b
 
 ### 1. Find the Data
 
-![2-census](Images/2-census.jpg)
+![2-census](images/2-census.jpg)
 
 Look for demographic information using the 2014 one-year estimates from the U.S. Census Bureau's American Community Survey. You can specify your information using the [American FactFinder](http://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml) tool. When searching through the data, be sure to select these options in the left sidebar:
 
@@ -30,7 +30,7 @@ When you select those filters, use the search bar to chose the demographic of yo
 
 Next, you'll search for data on health risks using 2014 survey data from the [Behavioral Risk Factor Surveillance System](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/BRFSS-2014-Overall/5ra3-ixqq). Note that we already filtered the data by year and break-out—you just need to find the behavioral risk you want to use. Filter the `Question` data on the site before downloading a specified .csv, or simply download the whole .csv file and use Excel's filtering tools.
 
-![3-brfss](Images/3-brfss.jpg)
+![3-brfss](images/3-brfss.jpg)
 
 ### 2. Format and Test the Data
 
