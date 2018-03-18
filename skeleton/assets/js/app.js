@@ -119,8 +119,8 @@ function makeResponsive(){
             node
             .append("text")
               .attr("class", "state")
-              .attr("x", (d) => {return xScale(d.poverty)-11})
-              .attr("y", (d) => {return yScale(d[currentAxisLabelY])+5})
+              .attr("x", (d) => {return xScale(d.poverty)})
+              .attr("y", (d) => {return yScale(d[currentAxisLabelY])})
               .text(fValue)
               .on("mouseover", (d) => {
                 tooltip.show(d)})

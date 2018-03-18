@@ -8,6 +8,34 @@ body {
   padding-bottom: 80px;
 }
 
+a:link {
+  color: #551aaf;
+  font-weight: bold;
+}
+
+a:visited {
+  color: #e75480;
+  font-weight: bold;
+}
+
+#header {
+  background-image: url("../../../images/newspaper.jpg");
+  background-repeat: repeat-x;
+  border: 2px solid gray;
+  text-shadow: 2px 2px gray;
+}
+
+/*#chart {
+  border: 2px solid gray;
+}*/
+
+#content {
+  height: 800px;
+  width: 100%;
+  border: none;
+
+}
+
 /* Sticky Footer rules (https://getbootstrap.com/examples/sticky-footer/) */
 #footer {
   position: absolute;
